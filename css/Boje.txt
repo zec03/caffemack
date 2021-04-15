@@ -1,0 +1,5 @@
+Zuta tamnija: #FEC503
+Zuta svjetlija: #FED136
+Zelena: #23AD21
+
+
